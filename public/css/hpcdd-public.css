@@ -1,0 +1,45 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.form {
+    position: relative;
+}
+img.hpcdd-loader {
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -30px;
+    margin-left: -30px;
+}
+
+.hpcdd-block-content {
+    padding: 15px;
+}
+
+.hpcdd-selector-box select.hpcdd-select {
+    width: 100%;
+    margin: 0 0 8px 0;
+    color: #575757;
+    font-size: 16px;
+}
+
+.hpcddsd {
+    background-color: #c9c9c9;
+}
+
+.hpcddsd:hover {
+    background-color: #c9c9c9;
+}
+
+.hpcdd-button {
+    width: 100% !important;
+}
+
+.hpcdd-submit {
+    width: inherit !important;
+    text-align: center;
+}
